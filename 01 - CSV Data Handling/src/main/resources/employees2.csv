@@ -1,0 +1,10 @@
+ID,Name,Department,Salary
+1,Alice Johnson,IT,60000
+2,Bob Smith,HR,55000
+3,Charlie Brown,Finance,70000
+4,Diana Prince,IT,80000
+5,Eric Adams,Marketing,65000
+3,Charlie Brown,Finance,70000  # Duplicate Entry
+2,Bob Smith,HR,55000  # Duplicate Entry
+6,Grace Hopper,IT,95000
+7,Hank Pym,HR,50000
