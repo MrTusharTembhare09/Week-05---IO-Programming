@@ -1,4 +1,4 @@
-package com.ioprogramming.practiceproblems.validateemail;
+package com.ioprogramming.handsonpracticeproblems.validateemail;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
